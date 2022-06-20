@@ -4,4 +4,4 @@
 #### * You have to install the latest version of Keil C V5 and CubeMX.
 #### * Basic understanding of microcontroller.
 ### Download file Vehicle theft detection and open it with CubeMX and Keil C V5.
-### Connection hardwave follow file Hardware.jpg
+### Connection hardware follow file Hardware.jpg
